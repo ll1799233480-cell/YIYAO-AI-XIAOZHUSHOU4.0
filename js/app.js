@@ -334,21 +334,24 @@ const App = {
     }
 
     
-            function downloadFile(url) {
+            function getFileUrl(url) {
+      const base = APP_CONFIG.basePath || '';
+      return base + url;
+    }
+
+    function handleDownload(url, event) {
       if (!url) {
         showToast("文件链接无效", 2000);
+        if (event) event.preventDefault();
         return;
       }
-      const base = APP_CONFIG.basePath || '';
-      const fullUrl = base + url;
-      const fileName = url.split('/').pop() || 'document';
-      showToast("正在下载文件...", 3000);
-      const a = document.createElement('a');
-      a.href = fullUrl;
-      a.download = fileName;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
+      const fullUrl = getFileUrl(url);
+      // On mobile, try to open in a new window first
+      const win = window.open(fullUrl, '_blank');
+      if (!win || win.closed || typeof win.closed === 'undefined') {
+        // Popup blocked or failed - fallback to direct navigation
+        window.location.href = fullUrl;
+      }
     }
 function scrollToTop() {
       window.scrollTo({ top: 0, behavior: "instant" });
@@ -456,7 +459,7 @@ function scrollToTop() {
       drugItems, academicItems,
       toggleChat, sendMessage, chatMessages, chatInput,
       isThinking, apiKeyInput, apiKeySet, saveApiKey, changeApiKey,
-      showToast, isRecording, startVoice, downloadFile
+      showToast, isRecording, startVoice, getFileUrl, handleDownload
     };
   }
 };
