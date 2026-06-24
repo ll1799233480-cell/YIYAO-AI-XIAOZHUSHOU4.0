@@ -343,32 +343,12 @@ const App = {
       const fullUrl = base + url;
       const fileName = url.split('/').pop() || 'document';
       showToast("正在下载文件...", 3000);
-      // Use fetch to get the file as blob, then trigger download
-      fetch(fullUrl)
-        .then(res => {
-          if (!res.ok) throw new Error("文件获取失败");
-          return res.blob();
-        })
-        .then(blob => {
-          const blobUrl = URL.createObjectURL(blob);
-          const a = document.createElement('a');
-          a.href = blobUrl;
-          a.download = fileName;
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-          URL.revokeObjectURL(blobUrl);
-        })
-        .catch(e => {
-          showToast("下载失败: " + e.message, 3000);
-          // Fallback: try direct navigation
-          const a = document.createElement('a');
-          a.href = fullUrl;
-          a.target = '_blank';
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-        });
+      const a = document.createElement('a');
+      a.href = fullUrl;
+      a.download = fileName;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
     }
 function scrollToTop() {
       window.scrollTo({ top: 0, behavior: "instant" });
