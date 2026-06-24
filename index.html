@@ -16,7 +16,7 @@
   <script src="js/fuse.basic.min.js"></script>
 </head>
 <body>
-  <div id="app">
+  <div id="app" v-cloak>
     <header class="app-header" :class="{ 'with-shadow': hasScroll }">
       <div class="header-inner">
         <button v-if="currentRoute !== 'home'" class="btn-icon" @click="goBack">
