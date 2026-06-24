@@ -1,0 +1,1104 @@
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 799
+·标准与规范·
+骨质疏松性骨折一级预防指南（ 版）
+2026
+中国康复医学会骨质疏松预防与康复专业委员会 中国老年保健协会骨关节分会
+通信作者：杨惠林，苏州大学附属第一医院骨科，苏州 ， ：
+215000 Email suzhouspine@163.
+；童培建，浙江中医药大学附属第一医院（浙江省中医院）骨伤科，杭州 ，
+com 310006
+：
+Email tongpeijian@163.com
+【摘要】 骨质疏松性骨折是骨质疏松症最严重的并发症，其发病率高、漏诊率高、致残率高、死亡
+率高，给社会和家庭带来巨大的经济和照护压力。加强风险人群的筛查并进行早期干预，预防或减少
+骨质疏松性骨折的发生意义重大。为此，中国康复医学会骨质疏松预防与康复专业委员会和中国老
+年保健协会骨关节分会启动了骨质疏松性骨折一级预防指南的制订工作，遴选出医务人员最为关注
+的专业问题，包括骨质疏松性骨折风险人群的识别和骨折风险评估，风险人群的教育指导，跌倒的预
+防措施，骨质疏松症的评估、诊断和治疗等关键临床问题，最终形成了 条推荐意见，旨在优化骨质
+11
+疏松性骨折一级预防策略，提高医务人员对骨质疏松性骨折高风险人群的健康管理水平及增强高风
+险人群的自我防范意识，降低骨折发生率、提高风险人群生活质量。
+【关键词】 骨折； 骨质疏松； 骨质疏松性骨折； 一级预防； 指南
+基金项目：国家重点研发计划（ ）
+2023YFC2509900
+实践指南注册：国际实践指南注册与透明化平台（ ）
+PREPARE‑2024CN579
+Guideline for primary prevention of osteoporotic fractures (2026 edition)
+The Professional Committee for Osteoporosis Prevention and Rehabilitation of Chinese Association of
+Rehabilitation Medicine; The Osteoarthrosis Committee of Chinese Aging Well Association
+Corresponding authors: Yang Huilin, Department of Orthopedic Surgery, the First Affiliated Hospital of
+Soochow University, Suzhou 215000, China, Email: suzhouspine@163.com; Tong Peijian, Department of
+Orthopedics and Traumatology, the First Affiliated Hospital of Zhejiang Chinese Medical University
+(Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou 310006, China, Email: tongpeijian@163.
+com
+【Abstract】 Osteoporotic fractures represent the most severe complication of osteoporosis,
+characterized by high incidence, high rates of missed diagnosis, high disability rates, and high
+mortality. These fractures impose substantial economic and caregiving burdens on both society and
+families. Strengthening screening in high‑risk populations and implementing early interventions to
+prevent or reduce the occurrence of osteoporotic fractures are therefore of paramount significance.
+Therefore, the Professional Committee for Osteoporosis Prevention and Rehabilitation of Chinese
+Association of Rehabilitation Medicine, in collaboration with the Osteoarthrosis Committee of
+Chinese Aging Well Association, has initiated the development of the guideline for primary
+prevention of osteoporotic fractures. Key clinical issues of greatest concern to healthcare
+professionals were identified, including: identification of populations at high risk for osteoporotic
+fracture and fracture risk assessment; education and guidance for at‑risk populations; fall
+prevention measures; assessment, diagnosis, and treatment of osteoporosis. This process
+DOI：
+10.3760/cma.j.cn112137-20250812-02059
+收稿日期 本文编辑 霍永丰
+2025-08-12
+引用本文：中国康复医学会骨质疏松预防与康复专业委员会 中国老年保健协会骨关节分会 骨质疏松
+, .
+性骨折一级预防指南（ 版） 中华医学杂志
+2026 [J]. , 2026, 106(9): 799-812. DOI: 10.3760/cma.j.
+cn112137-20250812-02059.
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+800 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+culminated in the formulation of 11 evidence‑based recommendations. The guideline aims to
+optimize primary prevention strategies for osteoporotic fractures, enhance healthcare professionals′
+management of health in high‑risk populations, strengthen self‑protection awareness among these
+individuals, reduce fracture incidence, and ultimately improve the quality of life for those at risk.
+【Key words】 Fractures, bone; Osteoporosis; Osteoporotic fractures; Primary
+prevention; Guideline
+Fund program: National Key R&D Program of China (2023YFC2509900)
+Practice guideline registration: Practice Guideline Registration for Transparency
+(PREPARE‑2024CN579)
+按照联合国标准， 岁及以上人口在一个国 人员。
+65
+家或地区总人口中占比超过 即为“老龄化社 指南制订方法：本指南的制订遵循世界卫生
+7% 2.
+会”，超过 为“老龄社会”，超过 则为“超老 组织（ ）指南制订手册［ ］的制订步骤，制订过
+11
+14% 20% WHO
+龄社会”。国家统计局数据显示， 年底，我国 程严格按照计划书开展，计划书及全文按照卫生保
+2021
+岁及以上人口已达 亿人，约占总人口 健实践指南的报告条目（ ）［ ］撰写。本指南
+12
+65 2.005 6 RIGHT
+［］，按照联合国标准，已进入“老龄社会”；截 已于国际实践指南注册与透明化平台注册（注册
+1
+14.2%
+至 年底， 岁及以上人口比重已升高至 号 ： ）。 本 指 南 制 订 自
+2024 65 PREPARE‑2024CN579
+［］。《“健康中国 ”规划纲要》指出，“共建 年 月启动， 年 月定稿，历时 个月。
+2
+15.6% 2030 2024 4 2025 6 14
+共享、全民健康”是建设健康中国的战略主题，也将 指南发起单位：本指南由中国康复医学会骨
+3.
+卫生健康体系工作重心由“以疾病为中心”转为“以 质疏松预防与康复专业委员会和中国老年保健协
+健康为中心”，突出“预防为主”，并将“健康骨骼”列 会骨关节分会制订。由北京大学公共卫生学院和
+为“三减三健”专项行动的核心内容之一，明确要求 苏州大学公共卫生学院提供方法学支持。
+加强全生命周期骨骼健康管理。我国人口基数庞 利益冲突声明与资助：指南任务启动会议
+4.
+大，骨质疏松症作为老年人肌肉骨骼系统疾病的典 前，所有专家均做出利益关系声明，签署、完成利益
+型代表，已成为影响老年人群生活质量的重大健康 声明表，并一致同意在指南中发表此声明。本指南
+问题。骨质疏松性骨折，也称为脆性骨折，是指在 制订过程中所需资金来源于国家重点研发计划项
+受到低能量外力（相当于人体从站立位高度或更低 目（ ）。
+2023YFC2509900
+高度跌倒产生的力）或日常活动中即发生的骨 临床问题的确定与遴选：严格按照人群、干
+5.
+折［］。骨质疏松性骨折作为骨质疏松症最严重的 预措施、对照和结局原则（ ）构建问题，并选择
+3
+PICO
+并发症，其发病率高、漏诊率高、致残率高、死亡率 相关的结局指标。通过调研、咨询、收集和讨论临
+高。如我国 岁以上人群骨质疏松性骨折的发生 床问题，并运用兰德 加州大学洛杉矶分校法
+60 /
+率可高达 ［ ］；椎体骨折漏诊率可达 （ ）进行 轮问卷专家匿名反馈并对专
+4‑5
+17.2%~24.7% RAND/UCLA 3
+［］。此外，髋部骨折后 个月， 的患者 家意见进行讨论形成最终纳入指南的临床问题。
+6
+32.4% 6 36.1%
+无法恢复自理， 的患者无法恢复至骨折前行走 证据的检索、评价与合成：针对纳入的临床
+44% 6.
+能力［］；骨质疏松性髋部骨折 年内死亡率可达 问题，按照 原则和纳入排除标准进行证据检
+7
+1 PICO
+［］，骨质疏松性椎体骨折 年死亡率 索：（）检索数据库：英文数据库 、
+8
+14.4%~28.3% 10 1 PubMed Wiley
+可达 ［ ］。同时，骨质疏松性骨折患者也给 、 、 、
+9‑10
+85.1% Online Library the Cochrane Library Medline Web
+社会和家庭带来巨大的经济和照护压力。因此，加 、 、 、
+of Science Springer Link Elsevier Science Direct
+强风险人群的筛查并进行早期干预，预防或减少骨 ；中文数据库：万方数据库、中国知网、维普网。
+Ovid
+质疏松性骨折的发生意义重大。 采用主题词和自由词相结合的方式检索相关文献，
+一、指南制订方法学 检索时间为建库至 年 月 日（修回时文献
+2025 6 10
+指南的目标人群及适用人群：指南的目标人 检索时间扩展为建库至 年 月 日）。（）检
+1. 2025 11 14 2
+群为所有低骨量和骨质疏松症患者。适用于接诊 索研究类型：优先检索近 年内发表的系统综述。
+5
+低骨量、骨质疏松症和骨质疏松性骨折患者的所有 如果系统综述可以回答临床问题，且评估系统综述
+医疗机构的临床医师、临床药师、康复医师和护理 的评价工具 （ ）评价质量高［ ］，则评估该
+13
+2 AMSTAR2
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 801
+系统综述是否需要更新，不需要更新则直接采用， 的影响，了解指南的传播情况，评价指南实施对临
+如需要更新则纳入近 年最新研究证据进行更新。 床决策的影响。
+5
+如果系统综述质量低或不能回答本指南的 问 指南出版后，将通过中国康复医学会骨质疏松
+PICO
+题，将根据现有原始研究证据重新进行系统评价。 预防与康复专业委员会、中国老年保健协会骨关节
+证据评价：依据 指南制订指导手册专 分会、骨科在线进行宣传和推广。方式包括：（）指
+7. WHO 1
+家推荐意见分级评估、制订及评价（ ）方法 南将以中文方式传播，并出现在学会相关网站；
+GRADE
+对证据质量和推荐意见的推荐强度进行分级 （）持续 年的骨科相关学术会议进行授课解读；
+2 3
+（表 、）。 （）以报纸、期刊、手册、小册子等形式进行印刷出
+1 2 3
+版；（）利用网络线上、手机 课程进行授课传
+表1 本指南中涉及的证据质量分级与定义 4 App
+播。同时，对指南的传播情况、专业人员的掌握情
+证据质量分级 定义
+况、临床结局的改变、经济效益进行评价和总结。
+高（ ） 非常有把握观察值接近真实值
+A
+二、骨质疏松性骨折一级预防的概念
+中（） 观察值有可能接近真实值，但也有可能差
+B
+别很大，对观察值有中等把握 一级预防也称病因预防，是指通过采取措施促
+低（） 观察值可能与真实值有很大差别，对观察 进健康，或消除致病因素对机体危害的影响，以及
+C
+值的把握有限
+提高机体的抵抗力来预防疾病的发生［
+10
+］。骨质疏
+极低（ ） 观察值与真实值可能有极大差别，对观察
+D
+值几乎没有把握 松性骨折的一级预防是指通过采用加强骨质疏松
+性骨折风险人群筛查及评估，科普宣教，改善生活
+表2 本指南中涉及的推荐强度分级与定义
+方式和饮食习惯，预防跌倒，规范骨质疏松诊疗等
+推荐强度分级 定义
+措施，预防或减少骨质疏松症或低骨量患者发生骨
+强推荐（） 明确显示干预措施利大于弊
+1 折。为优化骨质疏松性骨折一级预防策略，提高医
+弱推荐（） 利弊不确定或干预措施可能利大于弊
+2
+务人员对骨质疏松性骨折高风险人群的健康管理
+专家共识（ ） 基于非直接证据或专家意见、经验形成的推荐
+GPS
+水平及增强高风险人群的自我防范意识，中国康复
+推荐意见形成：完成证据总结后，指南制订
+医学会骨质疏松预防与康复专业委员会和中国老
+8.
+小组根据证据评价结果，形成 条初步推荐意见。
+年保健协会骨关节分会针对骨质疏松性骨折风险
+14
+通过一轮启动会，四轮改良德尔菲（ ）法讨论
+人群的识别和骨折风险评估，风险人群的教育指
+Delphi
+会，一轮终审会后，最终确定了 条推荐意见强度
+导，跌倒的预防措施，骨质疏松症的评估、诊断和治
+11
+和推荐方向。
+疗等关键临床问题，基于当前可获得的最佳证据，
+指南外审：本指南在发布前进行了同行评 明确证据质量和推荐强度，充分考虑卫生经济学效
+9.
+议，并根据同行专家的评审意见对相应的内容进行 益，以临床实践为导向，制订本指南。本指南所涉
+了修改和回复，最终提交顾问委员会批准，确定终 及的骨质疏松性骨折指原发性骨质疏松症所致的
+版推荐意见。 骨折。
+指南发布与更新：指南的形成与发表严格 三、骨质疏松性骨折风险人群的识别和骨折
+10.
+按照 的要求规范、系统、透明地进行。本指 风险评估
+RIGHT
+南全文首选在相关期刊发表。同时计划发表 推荐意见1：对于骨质疏松性骨折一级预防，
+3~
+年后更新指南。启动指南更新主要考虑是否出 医务人员应重点关注绝经早（绝经年龄 岁）的
+5 <48
+现了新的循证医学证据，是否需要增加新的临床问 女性及年龄 岁的老年人群，同时需注意有骨质
+>65
+题，以及是否有影响推荐意见的相关因素发生重大 疏松性骨折家族史的人群。（ ）
+1B
+变化。 证据概述：原发性骨质疏松症多见于绝经后妇
+指南传播、实施与评价：指南发布后，主要 女和老年男性［
+14
+］，这些人群也是发生骨质疏松性骨
+11.
+通过以下方式对指南进行传播和推广：（）在专业 折的风险人群。女性绝经后，体内雌激素水平迅速
+1
+期刊、网站、学术会议中介绍；（）有计划地在我国 下降，继而出现骨小梁变细甚至断裂，导致骨强度
+2
+部分省份组织指南推广专场，确保医务人员充分了 降低，骨折风险增加［ ］。绝经早（绝经年龄
+15
+<
+解并正确应用指南；（）指南发布 年后评价指 岁）、绝经后生活持续时间长者更易发生骨质疏
+3 1~2 48
+南的实施对我国骨质疏松性骨折诊断及治疗现状 松症，相应的骨折风险也更高［ 16 ］。年龄的增长同样
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+802 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+带来骨质疏松性骨折风险的增加［ ］，尤其是 岁 生骨质疏松性骨折的风险因素［ ］，减少吸烟和控
+17 28‑29
+>65
+人群［ ］。除了年龄，性别也与骨质疏松性骨折的患 制酒精摄入可以降低骨丢失，减少骨折风险。
+18
+病率有关，女性骨质疏松性骨折的发生率是男性的 （）肌肉容量及强度：研究表明，肌少症可增加
+6
+倍之多［ ］。此外，家族中有骨质疏松性骨折史的 骨质疏松性骨折风险［ ］。肌少症诊断的三个阈值
+19 30
+2
+人群也需要关注，研究发现，父母的骨折史与后代 为： 可能的肌少症，仅为肌力下降； 肌少症，肌
+① ②
+早期骨折风险存在性别关联，母亲的骨折史与女性 力和肌肉容量低； 严重肌少症，肌力、肌肉容量和
+③
+早期骨折风险增加有关，而父亲的骨折史则与男性 体能低下［ ］。
+31
+早期骨折风险有关［ ］。综上，在骨质疏松性骨折 （）跌倒：跌倒是导致风险人群发生骨质疏松
+20
+7
+一级预防的实施过程中，医务人员需要关注绝经后 性骨折的主要原因［ ］， 髋部骨折由跌倒
+32
+90%
+妇女和老年男性的筛查，特别是绝经早、绝经后生 所致［ ］。
+33
+活持续时间长的女性以及年龄 岁的老年人群， （）骨折家族史：家族中若发生过骨质疏松性
+>65 8
+同时需注意有骨质疏松性骨折家族史的人群。 骨折，则该家族 岁女性骨折发生率约增加
+50~69
+推荐意见2：骨质疏松性骨折的风险因素众 ， 岁女性骨折发生率约增加 ［
+34
+］。
+1% 70~79 5%
+多，如：高龄、绝经后女性、体质指数（ ）过高或 推荐意见 3：可采用骨折风险因子评估
+BMI
+过低、低骨密度、吸烟和过度饮酒、肌肉容量及强度 （ ）工具对骨质疏松性骨折的风险进行预
+®
+FRAX
+低、跌倒以及骨折家族史等。（ ） 测。（ ）
+1A 1A
+证据概述：骨质疏松性骨折是众多风险因素共 证据概述： 工具于 年首次发布，是
+®
+FRAX 2008
+同作用的结果。由于我国各地区医疗资源分布不 基于欧洲、北美、亚洲和澳大利亚人群数据的个体
+均衡、人口组成差异、老龄化程度不一，不同地区对 骨折风险评估模型［ ］，也是 推荐的用于评估
+35
+WHO
+于风险因素的筛查项目有所不同，缺乏统一的评估 患者未来 年髋部及主要骨质疏松性骨折（椎体、
+10
+标准： 前臂、髋部或肱骨近端）概率的骨折风险预测工具。
+（）年龄：由于骨质疏松本身就属于增龄性疾 工具可在线评测，操作简便。中国居民可通
+®
+1 FRAX
+病，老年人群患骨质疏松性骨折的风险明显增高， 过 网 站 访 问 简 体 中 文 版（ ：
+https //frax.shef.ac.
+年龄增大，骨折风险也随之提升，有研究表明， ？ ）并在线评测。但对
+60~ uk/FRAX/tool.aspx lang=chs
+岁人群的骨折风险为 岁人群的 倍［ 21 ］。 于骨密度 值 和 值 的人群或既往有骨
+70 40~44 2.1 T ≤-2.5 T >-1.0
+（）性别：在 岁人群中，女性和男性在其剩 质疏松性骨折病史并已开始治疗的骨质疏松症患
+2 >60
+余寿命内经历骨折的风险分别为 和 ［ ］。 者，则不推荐使用该工具［ ］。 工具可以将受
+22 14 ®
+36% 21% FRAX
+绝经后女性是骨质疏松性骨折的高发人群，这可能 试人群分为低风险、中风险和高风险三种，国内推
+与雌激素水平下降有关。日本的一项研究结果显 荐采用固定阈值法来评判风险程度［ ］。阈值设定
+36
+示，女性占新发髋部骨折的 ，男性仅占 采用国际通用阈值［ ， ］，即发生任何骨质疏松性骨
+14 37
+79.6%
+［ ］。 折概率 时，称为低风险；发生任何骨质疏松性
+23
+20.4% <10%
+（） ： 与骨质疏松性骨折之间有密切关 骨折概率为 时，为中风险；发生任何骨质
+3 BMI BMI 10%~20%
+系，低 是所有骨质疏松性骨折的风险因素，而 疏松性骨折概率 或发生髋部骨折的概率
+BMI ≥20% ≥3%
+高 是肱骨近端骨折的风险因素，却是腕关节骨 时，为高风险。英国国家卫生及医疗优化研究院
+BMI
+折的保护因素［ ］。研究表明，无论 过高或过 （ ）关于骨质疏松性骨折风险评估指南提出，
+24
+BMI NICE
+低，绝经后女性发生骨质疏松性骨折的风险均会增 在以 工具评估骨折风险以外，还应重点关
+®
+FRAX
+高［ ］。另一项研究也表明， 过低（ ） 注：年龄 岁，且过去 个月跌倒 次；全身应
+25 2
+BMI <18.5 kg/m >50 12 >1
+或过高（ ）均增加了男性骨折风险［ ］。因 用皮质类固醇 个月且每日剂量相当于泼尼松
+2 26
+≥30 kg/m >3
+此， 过高或过低均为骨质疏松性骨折风险 龙 剂量［ ］。但由于流行病学数据有限，
+38
+BMI ≥5 mg
+因素。 评估工具预测结果可能低估了中国人群的
+®
+FRAX
+（）骨密度：骨密度低是骨折的高风险因素，如 骨折风险。
+4
+果骨密度改善，发生骨质疏松性骨折的风险也随之 四、骨质疏松性骨折风险人群的教育指导
+降低［
+27
+］。 推荐意见4：应对骨质疏松性骨折风险人群进
+（）吸烟和过度饮酒：吸烟和过度饮酒均是发 行健康教育，使其了解骨质疏松症及骨质疏松性骨
+5
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 803
+折发生的原因、危害及防治方法，主动参与骨质疏 饮用 次或饮用量 ［ ］。老年人在日常生活中
+50
+<1 <1L
+松性骨折风险筛查和预防。（ ） 过度负重尤其是疲劳负重，可能导致骨折，故老年
+1B
+证据概述：研究发现，大部分骨质疏松性骨折 人应避免长时间跑步、快走、弯腰搬重物等过度负
+患者并不知晓他们患有骨质疏松症，且只有少数人 重［ ］。日常饮食需注重营养均衡，在保证每天钙、
+51
+接受了抗骨质疏松治疗，尤其是男性患者［ ］。接 磷等元素摄入量充足的前提下，老年人每日蛋白质
+39‑40
+受健康教育的患者较未接受组患者发生骨质疏松 摄入量建议为 体重，有助于减少骨丢
+1.0~1.2 g/kg
+性骨折的风险更低，疼痛评分更低，骨密度更高，对 失和骨折风险［ ］。为保证膳食多样化，还需要摄入
+52
+抗骨质疏松症药物的依从性更高［ ］。个体化的患 蔬菜、水果、鱼类、全麦、坚果等食物［ ］。
+41 53
+者教育有助于骨质疏松患者正确用药，保持健康的 推荐意见6：建议骨质疏松性骨折风险人群进
+生活方式，减少骨折的发生，提高生活质量［ ］。因 行增强肌力、耐力和平衡能力的科学锻炼，以增加
+42
+此，在骨质疏松性骨折的风险人群中，为达到预防 骨量，预防跌倒。（ ）
+1B
+性干预，降低风险人群骨质疏松性骨折发生率，健 证据概述：骨质疏松性骨折风险人群应避免久
+康教育很有必要。通过健康教育，使患者知 坐和不运动。条件许可时，建议在专业人员指导下
+晓［ ］：骨质疏松症和骨密度的关系，骨质疏松性 开具运动处方［ ］，进行肌力抗阻训练、平衡和活动
+43‑44 54
+/
+骨折的原因、危害、预防和治疗，戒烟和减少饮酒 训练、姿势练习以及与日常生活活动相关的功能锻
+等；适度锻炼，增加肢体协调和平衡感，预防跌倒； 炼：如每周 ，每天至少持续 中等强度的有
+5 d 30 min
+提高患者自身管理意识，促进他们主动进行骨质疏 氧体育运动［ ］；适当肌肉抗阻训练可改善肌肉和骨
+55
+松筛查并且定期随访。此外，由于婴幼儿期、青少 骼的结构和功能，增加骨密度，改善骨质疏松。老年
+年时期是骨骼发育和快速增长时期，对于成年后的 人的肌肉抗阻训练建议：每周 ，每天锻炼
+≥2 d 8~
+骨骼健康影响深远，因此，还应对青少年进行骨质 个关键肌群，每个肌群锻炼重复 组，每组
+10 1~3 8~
+疏松预防措施的健康教育，以提高这一人群对骨质 次［ ］；适当负重运动［ ］、全身震动疗法［ ］、平衡和
+56 57 58
+12
+疏松症的认识和态度，改善与骨骼健康相关的行为 本体感受练习［ ］对肌肉强度、骨代谢、肢体协调、平
+59
+和生活习惯［ ］。 衡能力等方面均有改善。总之，应选择增强肌力、耐
+45
+推荐意见5：建议优化骨质疏松性骨折风险人 力和平衡能力的科学锻炼，以增加骨量，预防跌倒。
+群的生活方式：保证充足阳光照射，保持合适体重， 五、跌倒的预防
+戒烟，控制酒精摄入，避免过度饮用咖啡、浓茶、碳 推荐意见7：跌倒发生的风险因素众多，如：高
+酸饮料，避免过度负重，饮食均衡营养，合理摄入 龄、使用跌倒风险增加药物、营养不良、独居、吸烟
+钙、磷及蛋白质，保证膳食多样化。（ ） 和饮酒、视力障碍、平衡及反应能力下降、肌少症、
+1B
+证据概述：制订科学、健康的生活规划，有助于 睡眠障碍、影响平衡和行动能力的疾病、认知障碍、
+老年人保持良好心态，提高老年人的生活质量，平 眩晕、环境危害、不合适的行动辅助与穿着用品
+稳度过老年生活。常见的措施有：每天将脸、手和 等。（ ）
+1A
+手臂等部位暴露在阳光下 （不使用防晒霜和 证据概述：每年有超过 的老年人跌倒，且
+30 min 25%
+遮盖物），以促进维生素 合成，但需防止晒伤［ ］。 跌倒是 岁或以上人群与伤害相关死亡的主要原
+46
+D 65
+保持合适的体重，培养积极的生活方式，戒烟和控 因［ ］。跌倒发生的风险因素众多：
+60
+制酒精摄入（建议不饮酒，如已饮酒，则每日饮酒量 （）高龄：老年人的感觉能力、中枢整合和运动
+1
+应当控制在：男性 标准杯，女性 标准杯。 标 功能都会随年龄增长而下降，从而导致反应迟钝，
+≤2 ≤1 1
+准杯换算为标准啤酒 、白酒 、葡萄酒 因此当老年人面临易致跌倒的环境时，无法快速调
+341 ml 30 ml
+）［ ］。保持开朗乐观的心态，减少对疾病的 整身体姿势以防止跌倒，且随着年龄的增长，常见
+47
+148 ml
+恐惧，保持社交和自主生活能力［ ］。由于过度饮用 的老年伴随疾病（如糖尿病、关节炎、帕金森病、
+48
+咖啡、浓茶等含咖啡因饮品及碳酸饮料等软饮料可 卒中和主要神经认知障碍等神经系统疾病）也会加
+能增加骨质疏松及骨质疏松性骨折风险，故应避免 剧这种迟钝的反应［ ］。
+60
+过度饮用咖啡、浓茶及碳酸饮料［ ］。每天饮用咖 （）跌倒风险增加药物：已知会增加跌倒风险
+49‑50
+2
+啡不宜超过 杯、浓茶不宜超过 杯（约含咖啡因 的药物被称为跌倒风险增加药物（ ）， 主
+2 6 FRID FRID
+）［ ］；软饮料应控制频率和饮用量，每周平均 要包括苯二氮䓬类药物、抗精神病药物（不含锂）、
+49
+220 mg
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+804 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+苯二氮䓬相关药物、阿片类药物、抗抑郁药、抗胆碱 量的渐进性和全身性丧失为特征。由于肌肉质量
+能药物、抗癫痫药物、利尿剂、用作抗高血压药的 占体重约 ，因此肌肉的病理变化会对老年人产
+60%
+受体阻滞剂、用于前列腺增生的 受体阻滞剂、 生深远影响。在老年人中，肌少症会减少肌肉扭转
+α α
+中枢性抗高血压药、抗组胺药、用于心脏病的血管 偏差、保持活动能力所需的时间，对老年人的生活
+扩张药以及过度活动膀胱和急迫性尿失禁药等 质量构成负面影响，并可能导致跌倒和跌倒相关
+类药物［ ］。 伤害［ ］。
+61 68
+14
+（）营养不良：老年人营养不良状况普遍存在， （）睡眠障碍：在老年人中，有 的人
+3 9 20%~58%
+其发生率可高达 ，尤其是在住院患者和护理院 有睡眠障碍，且患病率随年龄增长而增加。苯二氮
+60%
+长期居住的老年人中最为常见，而老年人营养不良 䓬类药物因其可起到镇静、催眠作用，因此在老年
+可显著增加跌倒风险、住院时间和死亡率［ ］。 人群中应用广泛。然而，长期应用（ 周）该类药
+62
+>4
+（）独居：随着人口老龄化的进展以及出生率 物对睡眠质量的改善会大大降低，但不良反应却会
+4
+的下降，老年人独居的比例也在增加。独居往往意 持续存在，尤其是直立性低血压、头晕和（或）失衡、
+味着较低的社会和情感支持，但同时老年人由于功 镇静、肌肉无力、共济失调等，将大大增加跌倒
+能衰退，本身又需要更多的社会和社区援助，因此 风险［ ］。
+69
+独居使老年人跌倒风险增加，尤其生活在城市社区 （ ）影响平衡和行动能力的疾病：老年人常见
+10
+环境中的老年人跌倒的风险更高，因为城市社区环 疾病如周围神经病变、帕金森病、卒中、下肢骨关节
+境的障碍物更多［ ］。 炎等，可影响老年人行动能力或步态，从而增加跌
+63
+（）吸烟和饮酒：研究表明，吸烟越多，跌倒风 倒风险；而低血压容易导致平衡失调，增加跌倒风
+5
+险越高，每天吸烟 支比终身不吸烟风险更高； 险；泌尿系统疾病如前列腺炎会增加老人起夜次数
+≥20
+同时吸烟与饮酒者跌倒风险高于非饮酒者，表明吸 从而增加跌倒风险［ ］。
+60
+烟和饮酒存在潜在的增加跌倒风险的相互作用［ ］。 （ ）认知障碍：与正常衰老的人群相比，认知
+64
+11
+（）视力障碍：视力障碍在老年人中十分常见。 障碍的老年人跌倒的次数是其 倍，并且与认知
+6 2~3
+如美国老年人中约 存在视力障碍［ ］。与没有 障碍的严重程度相关［ ］。认知在步态控制中发挥
+65 70
+30%
+视力障碍的同龄人相比，有视力障碍的老年人更易 重要作用，大脑中涉及认知功能和记忆的区域需要
+跌倒。具体而言，距离视觉障碍和对比敏感度障碍 协调运动、平衡和步态，认知可以通过判断反应时
+与更严重的跌倒有关，而单一视觉障碍和双重视觉 间和（或）精神运动控制来影响步态，包括步速和步
+障碍均与多次跌倒无关；对比敏感度越差，跌倒风 幅［ ］。认知能力下降伴随着中枢神经系统平衡控
+71
+险越高；远视力障碍和远视力越差，多次跌倒的风 制过程的紊乱和姿势不稳所致的较大横向摇摆，从
+险越高；随时间推移，近视视力下降与未来跌倒的 而增加这一人群跌倒风险［ ］。
+72
+风险增加有关，对比敏感度下降与未来多次跌倒的 （ ）眩晕：眩晕是老年人常见症状。老年人眩
+12
+风险升高有关［ ］。 晕的最常见原因是良性阵发性位置性眩晕和心血
+66
+（）平衡及反应能力下降：人们在日常活动中 管疾病如直立性低血压［ ］。眩晕与跌倒之间的关
+73
+7
+保持平衡和及时反应的能力对于防止跌倒非常重 联可能是直接的，也可能是间接的：外周前庭功能
+要。对老年人来说，衰老总是伴随着客观的身体功 障碍引起的眩晕会加剧姿势不稳定，这可能直接增
+能变化，从而带来主观心理体验的变化。老年人往 加跌倒风险；眩晕也会使老年人对跌倒产生恐惧心
+往容易错估其保持平衡而不跌倒的能力。在日常 理，这可能会导致其行为和活动回避的不适应，从
+生活中，对平衡能力的误判可能会增加老人的跌倒 而增加跌倒的风险［ ］。
+74
+风险：一方面，对平衡的过度自信可能会导致老人 （ ）环境危害：增加跌倒风险的环境危害包括
+13
+从事超出他们保持平衡能力的活动；另一方面，对 室内环境危害如地面湿滑、门槛较高、走廊杂乱、栏
+平衡的不自信可能会导致老年人过多限制其活动， 杆和台阶松动、家中光线不足等；以及室外环境危
+久而久之，使其生活空间大大收缩，也降低其活动 害如维护不善的人行道、绿地，混乱的社区管理，破
+能力，从而增加跌倒的风险［ ］。 碎的路缘、障碍物、垃圾，破旧的建筑和破败的院
+67
+（）肌少症：肌少症是老年人功能衰退和丧失 落等［ ］。
+75
+8
+自理能力的最重要原因之一，其以骨骼肌质量和力 （ ）行动辅助与穿着用品：老年人使用助行器
+14
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 805
+的本意是辅助行走及防止跌倒，但不恰当地使用助 因白内障而导致视力不佳的老人在接受白内障手
+行器、使用不合适的助行器、长时间使用助行器从 术后，在改善了视力的同时，还降低了跌倒风险［ ］。
+84
+而导致时空步态模式改变均增加跌倒风险［ ］。鞋 因此，对于有视力障碍，如白内障、屈光不正的人
+76
+子过松或过紧、鞋子支撑不足、鞋跟过高、鞋帮高度 群，可以进行适当的视力矫正或手术，可以降低跌
+不合适、鞋底不防滑、鞋底 鞋垫过硬均可能影响平 倒风险［ ］。
+85
+/
+衡和步态，从而增加跌倒风险［ ］。此外，不合身的 （）适当补充维生素 ：有研究表明，维生素
+77
+5 D D
+衣服可能会影响平衡和灵活性，增加绊倒的风险。 与跌倒风险之间显著关联，补充维生素 有预防跌
+D
+推荐意见8：预防跌倒的措施众多，如：跌倒风 倒的作用［
+86
+］，但维生素 的补充不能过度，除非有
+D
+险评估，科学运动锻炼，健康与药物管理，改善视 重度维生素 缺乏，否则每天补充不宜超过
+D
+力，适当补充维生素 ，心理调适及优化行为习惯， 。
+D 2 000 U
+合理使用辅助工具，改造居家环境等。（ ） （）心理调适及优化行为习惯：对跌倒的恐惧
+1B 6
+证据概述：预防跌倒是保障老年人安全的重要 是老年人常见问题， 的老年人存在跌倒
+20%~85%
+措施，主要包括： 恐惧，其中 因害怕跌倒而限制自身活动，
+20%~55%
+（）跌倒风险评估：对有风险因素的人群进行 活动量的减少会导致进一步的残疾和更高的跌倒
+1
+跌倒风险评估，进行分级管理，可分为［ ］：低风险， 以及骨折风险，从而形成恶性循环［ ］。因此，曾有
+78 87
+过去 个月无跌倒史或虽有跌倒史但步态和平衡 跌倒史者应克服恐惧心理，在辅助工具或家人陪伴
+12
+无异常，可给予跌倒预防教育，建议适当运动锻炼； 下保持适度运动。但同时又应防止过度自信的老
+中风险，过去 个月有跌倒史且步态和平衡有异 人高估自身活动能力，从而因活动量超出活动能力
+12
+常，但跌倒 次且无其他损伤者，给予个体化平 而跌倒［ ］。此外，老人还应学习防跌倒知识，跌倒
+88
+<2
+衡、步态和肌力训练以及跌倒预防教育；高风险，过 后先自查伤情，勿强行起身；家人或照护者需掌握
+去 个月跌倒 次，或伴其他损伤，或伴有虚弱， 急救技能，家中备应急呼叫设备；日常起身避免过
+12 ≥2
+或倒地不能自己起身，或有意识不清者，需进一步 快过急；避免走太陡楼梯 台阶；避免拥挤；避免行
+/
+行跌倒多因素风险评估，并给予个体化干预措施， 走于湿滑地面；穿合身衣物及防滑鞋；床头备手
+并随访 。 电筒。
+30~90 d
+（）科学运动锻炼：在安全可行的情况下，建议 （）合理使用辅助工具：行动辅助包括拐杖、助
+2 7
+风险人群每周进行 的中等强度有氧体 行器等；佩戴防护装备，如保护支具；视力 听力障
+150~300 min /
+育运动，或每周进行 的高强度有氧体育 碍者及时佩戴矫正眼镜或助听器［ ］。
+89
+75~150 min
+运动（中等强度体育运动是指以休息强度的 （）改造居家环境：保持家中地面平整干燥，移
+3.0~ 8
+倍进行的运动；高强度体育运动是指以休息强 除通道杂物（如松动地毯、电话线、数据线、充电线
+5.9
+度的 倍或更多倍进行的运动；有氧运动，是指可 等），铺设防滑地板或防滑垫；充足的照明，夜灯或
+6.0
+改善心肺健康的耐力运动，包括：快走、跑步、骑自 辅助照明应易于触及和开关，走廊和卫生间等夜间
+行车、跳绳和游泳等）［
+79
+］，以增加肌肉强度，减少心 活动区域最好安装感应夜灯；合适的家具，床和椅
+血管疾病，间接减少跌倒风险。另外，可在专业人 子不宜过高或过低，床旁带防护栏杆，椅子带扶手；
+员的指导下进行平衡能力和柔韧性训练，如坐立练 适当的布局，有足够的空间移动和使用助行器，所
+习、单腿站立、重心转移、太极拳、八段锦等，这些动 有区域整洁有序，常用物品置于易取位置，避免弯
+作可以增加身体平衡能力和柔韧性，减少跌倒 腰或登高取物，走廊、楼梯、马桶、浴室等处安装扶
+风险［ ］。 手，便于借力［ ］。
+80‑81 90
+（）健康与药物管理：对可能增加跌倒风险的 六、骨质疏松症的评估、诊断和治疗
+3
+疾病如高血压、糖尿病等加以控制。加强风险人群 推荐意见9：可采用双能 线吸收法（ ）和
+X DXA
+药品摄入管理，比如减少引起体位性低血压的药 定量 （ ）进行骨质疏松的评估和诊断，常规
+CT QCT
+物，减少改变体位引起的眩晕［ ］；对镇静药、精神类 可作为补充。（ ）
+82
+CT 1A
+药物加强审查，减少使用剂量或者种类，逐步减少 证据概述：骨质疏松症的评估和诊断基于骨密
+精神依赖，摆脱心理困境［ ］。 度测量以及是否发生骨质疏松性骨折，同时结合病
+83
+（）改善视力：视觉在维持平衡中起重要作用， 史、体格检查、辅助检查等完成［ ］。
+14
+4
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+806 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+（）基于骨密度的诊断： 仍是目前临床上 酌情检测血清 羟维生素 水平，定期监测血清
+1 DXA 25 D
+应用最广泛的骨密度检查工具。 测定腰椎或 钙及 尿钙浓度，以指导维生素 的补充［ ］。足
+14
+DXA 24 h D
+髋部的 值 为骨量正常， 值 为骨 量的钙摄入，有利于缓解骨丢失、改善骨矿化和维
+T ≥-1.0 -2.5<T <-1.0
+量减少，值 为骨质疏松，若 值 并且合 护骨骼健康。 岁以上人群每天应摄入
+T ≤-2.5 T ≤-2.5 50 1 000 mg
+并骨质疏松性骨折，即为严重骨质疏松。该标准匹 钙，中国人每日膳食摄入钙约 ，因此，还需每
+400 mg
+配的是 岁高加索女性终生骨质疏松性骨折风 日补充元素钙约 ［ ］。钙剂中，碳酸钙钙含量
+96
+≥50 600 mg
+险，由于人种差异，在应用于亚洲尤其是东亚人群 高，但依赖胃酸吸收，胃酸缺乏者（如老年人、质子
+时应做适当调整［ ］。但 测量的面积骨密度受 泵抑制剂使用者）吸收率低。胃肠道不良反应如便
+91
+DXA
+体重、脊柱侧凸、骨质增生、椎体骨折和血管钙化等 秘、腹胀常见［ ］。醋酸钙吸收率较高，服用后不消
+97
+因素影响，可能会降低骨密度检查的准确性。 耗胃酸，对胃刺激性小，不易便秘［ ］。
+98
+QCT
+的骨密度测定的结果分类与 类似，腰椎 （）骨吸收抑制剂：双膦酸盐为治疗骨质疏松
+DXA QCT 2
+骨 密 度 为 正 常 ，骨 密 度 为 的一线用药之一，通过抑制破骨细胞活性减少骨吸
+3
+≥120 mg/cm 80~
+骨量减少，骨密度 为骨质疏 收，可提高腰椎和髋部骨密度，降低椎体骨折和髋
+3 3
+120 mg/cm ≤80 mg/cm
+松［ ］。 诊断准确性高，但尚未普及。胸腰椎 部骨折风险。双膦酸盐有口服剂型也有静脉注射
+92
+QCT
+或胸腹部 扫描可能包含胸腰椎椎体，在这些 剂型；但长期用药（ 年）、合并糖尿病、使用糖皮
+CT CT >3
+现成的 影像中测量椎体松质骨 值有助于识 质激素或免疫抑制剂者颌骨坏死风险增加，亦有非
+CT CT
+别骨质疏松患者，在确保敏感性和特异性基础上， 特异性骨折风险；口服剂型可能出现腹痛、食管炎，
+骨质疏松 值临界值为 ，即椎体松质骨 甚至溃疡；静脉剂型快速输注可能引发肾损伤，故
+CT 110 HU CT
+值 可考虑为骨质疏松［ ］。常规 检查容 肌酐清除率 者禁用［ ］；长期用药者建议
+93 99
+<110 HU CT <35 ml/min
+易获取，可大大提高骨质疏松的机会检出率，可作 年后评估风险，以决定是否进入“药物假期”；
+3~5
+为骨质疏松评估和诊断的补充。普通 线平片上， 对胃肠不耐受或颌骨高危者，可考虑换用地舒单抗
+X
+骨质疏松的骨骼可表现为骨小梁稀少，骨密度降 或雷洛昔芬［ ］。地舒单抗可减少破骨细胞生成和
+100
+低，但这些表现受主观因素影响大，且对轻度骨质 骨吸收，显著降低椎体、髋部和非椎体骨折风险，无
+疏松不敏感。但对于腰背痛患者，通过胸腰椎侧位 需肾脏代谢，适用于中重度肾功能不全患者，地舒
+线片采用 半定量评估法有助于发现椎体 单抗 年长期应用仍可持续维持较低的骨折风
+X Genant 10
+骨折［ ］。 险，且不增加不良事件发生率。但停药后可能出现
+94
+（）基于骨折的诊断：无论有无骨密度检查结 骨密度下降或骨折风险反弹，需要序贯双膦酸盐类
+2
+果，只要出现了椎体或髋部低能量外力所致的骨 或罗莫索珠单抗治疗［ ］；此外，长期使用地舒单抗
+101
+折，即可诊断为骨质疏松症；或骨密度检查提示骨 需注意低钙血症风险［ ］。降钙素类药物可阻止急
+102
+量减少，且出现了肱骨近端或桡骨远端低能量外力 性骨丢失，缓解骨质疏松及其骨折后的骨痛，建议
+所致的骨折，也可以诊断为骨质疏松症。 在骨质疏松的制动患者中使用［ ］。雷洛昔芬可
+103‑104
+推荐意见10：抗骨质疏松综合治疗有利于降 用于绝经后骨质疏松治疗，可降低椎体骨折风险，
+低骨质疏松性骨折发生率，建议对骨质疏松性骨折 因其胃肠道反应小，更适用于无法耐受双膦酸盐胃
+高风险人群进行规范的抗骨质疏松综合治 肠道不良反应者，且不增加乳腺癌和子宫内膜癌风
+疗。（ ） 险；但其不能降低髋部或非椎体骨折风险，且增加
+1A
+证据概述：骨质疏松性骨折是骨质疏松症最严 静脉血栓栓塞风险，还可能因加重更年期症状而影
+重的后果，因此抗骨质疏松治疗的主要目的是预防 响用药依从性［ ］。
+105
+骨质疏松性骨折的发生，对于诊断为骨质疏松症的 （）骨形成促进剂：有极高骨折风险者，建议首
+3
+人群建议使用抗骨质疏松药物治疗［ ］，常用的抗骨 先选用促骨形成类药物治疗，即“成骨先行”［ ］。
+95 106
+质疏松药物可分为基础治疗药物、骨吸收抑制剂、 甲状旁腺激素类似物（如特立帕肽）可刺激成骨细
+骨形成促进剂、双重作用药物、其他机制类药物及 胞活性，促进骨形成，显著改善骨密度和骨微结构，
+中医药等（表 ）。 适用于严重骨质疏松或极高骨折风险患者。通常
+3
+（）基础治疗药物：对于骨质疏松和低骨量人 使用 个月，需转为抗骨吸收治疗；另外，骨肿
+1 18~24
+群，每日补充维生素 剂量可为 ，可 瘤或高钙血症患者禁用［ ］。
+107
+D 800~1 200 U/d
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 807
+（）双重作用药物：硬骨抑素单克隆抗体（如罗 表3 治疗骨质疏松的代表性药物
+4
+莫索珠单抗）是目前唯一兼具促进骨形成和抑制骨 种类 代表性药物
+吸收双重作用的抗骨质疏松药物，可显著提高骨密 基础治疗
+维生素
+度，尤其适用于极高骨折风险患者。罗莫索珠单抗 D
+钙剂 碳酸钙、醋酸钙、葡萄糖酸钙
+批准疗程为 个月，疗程结束或停药后需序贯其
+12 骨吸收抑制剂
+他骨吸收抑制剂（如双膦酸盐或地舒单抗）。但罗
+双膦酸盐 阿仑膦酸钠、唑来膦酸、利塞膦
+莫索珠单抗可能增加心肌梗死或卒中风险，禁用于 酸钠、伊班膦酸钠、依替膦酸
+近期心血管事件患者［ ］。 二钠、氯膦酸二钠
+108
+抑制剂 地舒单抗
+（）其他机制类药物：骨化三醇为直接活性维 RANKL
+5 降钙素 鲑降钙素、依降钙素
+生素 ，无需肝肾代谢，起效快，适用于肾功能不全
+D 选择性雌激素受体调节剂 雷洛昔芬
+患者，但有高钙血症风险，需严格监测血钙、尿钙水
+骨形成促进剂
+平［
+109
+］。阿法骨化醇需经肝脏羟化为骨化三醇，适
+甲状旁腺激素相关蛋白类似物 特立帕肽
+用于轻中度肾功能不全患者，但有肝功能依赖，严 双重作用药物
+重肝病患者可能影响疗效，仍需定期监测血钙［ ］。 硬骨抑素单克隆抗体 罗莫索珠单抗
+109
+其他机制类药物
+艾地骨化醇可促进肠道钙主动转运，增加肠道钙吸
+活性维生素 骨化三醇、 骨化醇、艾地骨化醇
+收，常规饮食情况下，可减少钙剂补充［ 110 ］。四烯甲 D α‑
+维生素 四烯甲萘醌
+萘醌是维生素 的一种同型物，可通过刺激成骨 K
+K2 中医药 仙灵骨葆胶囊（片）、金天格胶
+细胞分化发挥促成骨作用，并通过抑制核因子 囊、骨疏康胶囊（颗粒）
+κB
+受体活化因子配体（ ）表达抑制破骨活 注： 为核因子 受体活化因子配体
+RANKL RANKL κB
+性［ ］，有利于促进骨矿化，提高骨量，降低骨丢失
+111 骨质疏松性骨折是骨质疏松症危害最大的并
+和骨质疏松患者的骨折风险，与现有其他抗骨质疏
+发症，具有高死亡率和高致残率。骨质疏松性骨折
+松药物联用无冲突且有一定的协同作用［ ］，不良
+112
+的一级预防全面践行了《“健康中国 ”规划纲
+反应轻微且发生率低，适合长期使用［ ］。 2030
+14
+要》的核心理念，以“健康骨骼”专项行动为依托，通
+（）中医药治疗骨质疏松症以补益肝肾、健脾
+6 过生活方式干预、高危人群管理、多学科协作及全
+益气、活血祛瘀等为基本治法［ ］，例如仙灵骨葆胶
+14
+周期防控，降低骨折发生率、提高老年人生活质量，
+囊（片）［ ］、金天格胶囊［ ］、骨疏康胶囊（颗粒）［ ］
+113 114 115
+减轻家庭、社会负担，助力“健康老龄化”目标实现。
+等，均应在中医学理论指导下使用，其适应证、用法
+综上，本指南的制订以临床需求和问题为导
+和注意事项请参阅药品说明书。
+向，旨在解决骨质疏松性骨折一级预防中的关键问
+总之，骨质疏松作为骨质疏松性骨折的发病基
+题，同时将循证医学证据与我国实际情况相结合，
+础，常需要采取多种有效药物进行长期的联合或序
+寻找适合中国人群骨质疏松性骨折一级预防的最
+贯治疗，以增加骨密度，降低骨折风险［ ］。
+116
+佳方案。本指南只针对骨质疏松性骨折一级预防
+推荐意见11：建议在有条件的医疗机构开展
+中最重要的、对临床决策产生重要影响的以及最有
+骨质疏松性骨折一级预防多学科联合门诊。（ ）
+1B 争议的问题形成推荐意见，推荐意见仅为学术性指
+证据概述：骨质疏松性骨折不同于普通骨折，
+导意见，无任何强制力，亦不作为法律诉讼依据，且
+是骨质疏松症最严重的并发症，是一个涉及多学科
+随着医学的不断发展和进步，本指南的内容也需要
+的疾病，如能在骨质疏松性骨折一级预防的过程中
+不断完善和修改。
+建立一个包括但不限于骨科、老年科、内分泌科、妇
+本指南制订专家委员会名单
+科、风湿免疫科、康复科、营养科、健康管理、中医科
+顾问：唐天驷（苏州大学附属第一医院骨科）；张英泽（河北
+等学科及社区医疗机构等在内的多学科诊疗团队
+医科大学第三医院）；姜保国（北京大学人民医院国家创伤
+（ ）或 联合门诊，共同为骨质疏松性骨折
+MDT MDT 医学中心）；唐佩福（解放军总医院骨科医学部）
+风险人群提供一体化服务，且定期监测和评估疗
+牵头专家：杨惠林（苏州大学附属第一医院骨科）；童培建
+效、骨密度、骨折风险，减少药物治疗产生的不良反
+［浙江中医药大学附属第一医院（浙江省中医院）骨伤科］；
+应等，将有助于提高治疗效果，增加患者依从性，从 章振林（上海交通大学医学院附属第六人民医院骨质疏松
+而有利于骨质疏松性骨折的预防［ 117‑118 ］。 和骨病专科）；李危石（北京大学第三医院骨科）
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+808 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+执笔专家：周军（苏州大学附属第一医院骨科）；孟斌（苏州 中心）；汤在祥（苏州大学公共卫生学院）
+大学附属第一医院骨科）；陈晓庆（南通大学附属医院骨科） 利益冲突 所有作者声明不存在利益冲突
+制订专家（按姓氏汉语拼音排序）：柴伟（解放军总医院骨科
+医学部关节外科）；昌耘冰（广东省人民医院脊柱外科）； 参 考 文 献
+陈亮（苏州大学附属第一医院骨科）；陈国茜［浙江中医药大
+学附属第一医院（浙江省中医院）骨伤科］；陈廖斌（武汉大 [1] 国家统计局. 中华人民共和国2021年国民经济和社会发展
+学中南医院骨科）；陈允震（山东大学齐鲁医院骨科）；程黎明 统计公报[EB/OL].(2022‑02‑28)[2025‑05‑30]. https://www.
+stats.gov.cn/sj/zxfb/202302/t20230203_1901393.html.
+（同济大学附属同济医院骨科）；程细高（南昌大学第二附属
+[2] 国家统计局. 中华人民共和国2024年国民经济和社会发展
+医院骨科）；程晓光（北京积水潭医院放射科）；方向前（浙江
+统计公报[EB/OL]. (2025‑02‑28)[2025‑05‑30]. https://www.
+大学医学院附属邵逸夫医院骨科）；冯皓宇（山西白求恩医 stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html.
+[3] Shoji MM, Ingall EM, Rozental TD. Upper extremity fragility
+院骨科）；关振鹏（北京大学首钢医院骨科）；海涌（首都医科
+fractures[J]. J Hand Surg Am, 2021, 46(2):126‑132. DOI:
+大学附属北京朝阳医院骨科）；侯志勇（河北医科大学第三
+10.1016/j.jhsa.2020.07.010.
+医院骨科创伤急救中心）；胡侦明（重庆医科大学附属第一 [4] Gao C, Xu Y, Li L, et al. Prevalence of osteoporotic vertebral
+医院骨科）；雷光华（中南大学湘雅医院骨科）；李春海（中山 fracture among community‑dwelling elderly in Shanghai[J].
+Chin Med J (Engl), 2019, 132(14):1749‑1751. DOI: 10.1097/
+大学孙逸仙纪念医院骨外科）；李淳德（北京大学第一医院
+CM9.0000000000000332.
+骨科）；李锋（华中科技大学同济医学院附属同济医院骨 [5] Li Q, Yang Z, Zhu M, et al. Prevalence and risk factors of
+科）；李建军（中国康复研究中心脊柱脊髓神经功能重建 osteoporotic fracture among the elderly population in China:
+a multicenter cross‑sectional study[J]. Int Orthop, 2024,
+科）；梁裕（上海交通大学医学院附属瑞金医院骨科）；林海滨
+48(5):1323‑1330. DOI: 10.1007/s00264‑024‑06145‑0.
+（莆田学院附属医院骨科）；林华（南京大学医学院附属鼓楼
+[6] Du MM, Che‑Nordin N, Ye PP, et al. Underreporting
+医院骨科）；刘宏建（郑州大学第一附属医院骨科）；刘新宇 characteristics of osteoporotic vertebral fracture in back
+（山东大学齐鲁医院骨科）；刘屹林（郑州大学第一附属医院 pain clinic patients of a tertiary hospital in China[J]. J Orthop
+Translat, 2020, 23:152‑158. DOI: 10.1016/j.jot.2019.10.007.
+骨科）；罗湘杭（中南大学湘雅医院内分泌科）；吕松岑（哈尔
+[7] González Marcos E, González García E, González‑Santos J,
+滨医科大学附属第二医院骨科）；马昕（上海交通大学医学 et al. Determinants of lack of recovery from dependency and
+院附属第六人民医院骨科）；毛海青（苏州大学附属第一医 walking ability six months after hip fracture in a population
+of people aged 65 years and over[J]. J Clin Med, 2022, 11(15):
+院骨科）；梅伟（郑州市骨科医院）；孟纯阳（济宁医学院附属
+4467. DOI: 10.3390/jcm11154467.
+医院骨科）；全仁夫（浙江中医药大学附属江南医院骨伤
+[8] Sing CW, Lin TC, Bartholomew S, et al. Global epidemiology
+科）；戎利民（中山大学附属第三医院骨科）；申才良（安徽医 of hip fractures: secular trends in incidence rate,
+科大学第一附属医院骨科）；沈彬（四川大学华西医院骨 post‑fracture treatment, and all‑cause mortality[J]. J Bone
+Miner Res, 2023, 38(8):1064‑1075. DOI: 10.1002/jbmr.4821.
+科）；唐海（首都医科大学附属北京友谊医院骨科）；田华（北
+[9] Ong KL, Beall DP, Frohbergh M, et al. Were VCF patients at
+京大学第三医院关节外科）；王飞（河北医科大学第三医院 higher risk of mortality following the 2009 publication of the
+关节外科）；王永祥（江苏省苏北人民医院骨科）；吴新宝（北 vertebroplasty“ sham” trials?[J]. Osteoporos Int, 2018, 29(2):
+375‑383. DOI: 10.1007/s00198‑017‑4281‑z.
+京积水潭医院创伤骨科）；肖骏（华中科技大学同济医学院
+[10] 傅华. 国家卫生健康委员会“十三五”规划教材:预防医学
+附属同济医院骨科）；熊小明（成都体育学院附属体育医院
+[M].7版. 北京:人民卫生出版社, 2018: 6.
+脊柱病科）；徐宝山（天津市天津医院脊柱外科）；徐卫国（天 [11] World Health Organization. WHO handbook for guideline
+津市天津医院创伤骨科）；徐又佳（苏州大学附属第二医院 development[M], 2nd ed. https://iris.who.int/handle/
+10665/145714.
+骨质疏松症临床中心）；许鹏（西安市儿童医院）；薛庆云（北
+[12] Chen Y, Yang K, Marušic A, et al. A reporting tool for practice
+京医院骨科）；闫景龙（哈尔滨医科大学附属第二医院骨 guidelines in health care: the RIGHT statement[J]. Ann Intern
+科）；杨操（华中科技大学同济医学院附属协和医院骨科）； Med, 2017, 166(2): 128‑132. DOI: 10.7326/M16‑1565.
+[13] Shea BJ, Reeves BC, Wells G, et al. AMSTAR 2: a critical
+杨佩（西安交通大学第二附属医院骨科中心）；姚啸生（辽宁
+appraisal tool for systematic reviews that include
+中医药大学附属医院骨伤科）；银和平（内蒙古医科大学第
+randomised or non‑randomised studies of healthcare
+二附属医院脊柱外科中心）；尹东（广西壮族自治区人民医 interventions, or both[J]. BMJ, 2017, 358:j4008. DOI:
+院骨科）；袁峰（徐州医科大学附属医院骨科）；曾建成（四川 10.1136/bmj.j4008.
+[14] 中华医学会骨质疏松和骨矿盐疾病分会. 原发性骨质疏松症
+大学华西医院骨科）；张斌（南昌大学第一附属医院骨科）；
+诊疗指南(2022)[J]. 中华内分泌代谢杂志, 2023, 39(5):
+仉建国（中国医学科学院北京协和医院骨科）；赵斌（山西医 377‑406. DOI:10.3760/cma.j.cn311282‑20230321‑00122.
+科大学第二医院骨科）；赵杰（上海交通大学医学院附属第 [15] Nilsson KH, Wu J, Gustafsson KL, et al. Estradiol and RSPO3
+regulate vertebral trabecular bone mass independent of each
+九人民医院骨科）；郑召民（中山大学附属第一医院脊柱外
+other[J]. Am J Physiol Endocrinol Metab, 2022, 322(3):
+科）；朱悦（中国医科大学附属第一医院骨科）
+E211‑E218. DOI: 10.1152/ajpendo.00383.2021.
+方法学专家：詹思延（北京大学第三医院临床流行病学研究 [16] He Y, Huang J, Jiang G, et al. Menarche age exceed 17 years
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 809
+and menopausal age smaller than 48 years may affect Cienc, 2022, 94(suppl 3): e20210661. DOI: 10.1590/
+prevalence of osteoporosis for Chinese women[J]. Arch 0001‑3765202220210661.
+Osteoporos, 2021, 16(1): 123. DOI: 10.1007/ [30] Jauffret C, Périchon R, Lamer A, et al. Association between
+s11657‑021‑00959‑w. sarcopenia and fracture risk in a population from the UK
+[17] de Filette J, Charles A, Bellanger A, et al. Risk factors Biobank database[J]. J Bone Miner Res, 2023, 38(10):
+predicting the 'time to first fracture' and its association with 1422‑1434. DOI: 10.1002/jbmr.4884.
+imminent fractures: a substudy of the FRISBEE cohort[J]. [31] Cruz‑Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised
+Arch Osteoporos, 2023, 18(1): 88. DOI: 10.1007/ European consensus on definition and diagnosis[J]. Age
+s11657‑023‑01296‑w. Ageing, 2019, 48(4):601. DOI: 10.1093/ageing/afz046.
+[18] Thériault G, Limburg H, Klarenbach S, et al. [32] Rapp K, Lamb SE, Roigk P, et al. Effect of an osteoporotic
+Recommendations on screening for primary prevention of fracture prevention program on fracture incidence in routine
+fragility fractures[J]. CMAJ, 2023, 195(18):E639‑E649. DOI: care: a cluster‑randomized trial[J]. BMC Med, 2022, 20(1):
+10.1503/cmaj.221219. 49. DOI: 10.1186/s12916‑021‑02226‑8.
+[19] Lorentzon M, Johansson H, Harvey NC, et al. Osteoporosis [33] Lim SK, Choi K, Heo NH, et al. Characteristics of fragility hip
+and fractures in women: the burden of disease[J]. fracture‑related falls in the older adults: a systematic review
+Climacteric, 2022, 25(1): 4‑10. DOI: 10.1080/ [J]. J Nutr Health Aging, 2024, 28(10):100357. DOI: 10.1016/
+13697137.2021.1951206. j.jnha.2024.100357.
+[20] Percival MA, Anderson KB, Pasco JA, et al. Parental fracture [34] Gasparik A, Szőcs T, Pascanu I, et al. Family history‑bmd
+history is associated with offspring early‑life fracture risk: independently‑influences fracture risk[J]. Acta Endocrinol
+the Geelong Osteoporosis Study[J]. Bone, 2025, 195:117454. (Buchar), 2021, 17(4):498‑502. DOI: 10.4183/aeb.2021.498.
+DOI: 10.1016/j.bone.2025.117454. [35] Kanis JA, Johnell O, Oden A, et al. FRAX and the assessment
+[21] Skripnikova IA, Myagkova MA, Shalnova SA, et al. of fracture probability in men and women from the UK[J].
+Epidemiology of risk factors and estimating 10‑year Osteoporos Int, 2008, 19(4): 385‑397. DOI: 10.1007/
+probability of osteoporotic fractures in the Russian s00198‑007‑0543‑5.
+Federation[J]. Arch Osteoporos, 2022, 17(1): 62. DOI: [36] Liu SY, Huang M, Chen R, et al. Comparison of strategies for
+10.1007/s11657‑022‑01093‑x. setting intervention thresholds for Chinese postmenopausal
+[22] Ho‑Le TP, Tran TS, Nguyen HG, et al. Genetic prediction of women using the FRAX model[J]. Endocrine, 2019, 65(1):
+lifetime risk of fracture[J]. J Clin Endocrinol Metab, 2023, 200‑206. DOI: 10.1007/s12020‑019‑01951‑8.
+108(11):e1403‑e1412. DOI: 10.1210/clinem/dgad254. [37] Patel J. Economic implications of osteoporotic fractures in
+[23] Koseki H, Sunagawa S, Noguchi C, et al. Incidence of and risk postmenopausal women[J]. Am J Manag Care, 2020, 26(15
+factors for hip fracture in Nagasaki, Japan from 2005 to Suppl):S311‑S318. DOI: 10.37765/ajmc.2020.88549.
+2014[J]. Arch Osteoporos, 2021, 16(1):111. DOI: 10.1007/ [38] National Institute for Health and Care Excellence. Osteoporosis:
+s11657‑021‑00978‑7. assessing the risk of fragility fracture. Clinical guideline[EB/OL].
+[24] Yi SW, Bae JH, Kim YM, et al. Relationship between body mass (2017‑02‑07). https://www.nice.org.uk/guidance/cg146/
+index and fracture risk at different skeletal sites: a resources/osteoporosis‑assessing‑the‑risk‑of‑fragility‑fracture‑
+nationwide cohort study[J]. Arch Osteoporos, 2022, 17(1): pdf‑35109574194373.
+99. DOI: 10.1007/s11657‑022‑01147‑0. [39] Bougioukli S, Κollia P, Koromila T, et al. Failure in diagnosis
+[25] Kim J, Lee S, Kim SS, et al. Association between body mass and under‑treatment of osteoporosis in elderly patients with
+index and fragility fracture in postmenopausal women: a fragility fractures[J]. J Bone Miner Metab, 2019, 37(2):
+cross‑sectional study using Korean National Health and 327‑335. DOI: 10.1007/s00774‑018‑0923‑2.
+Nutrition Examination Survey 2008‑2009 (KNHANES )[J]. [40] Russo M, Liu C, Liu Y, et al. Evaluating male patients′
+Ⅳ
+BMC Womens Health, 2021, 21(1):60. DOI: 10.1186/ understanding of osteoporosis evaluation and treatment
+s12905‑021‑01209‑4. following a distal radius fracture[J]. J Hand Surg Am, 2024,
+[26] Nishikura T, Kitamura K, Watanabe Y, et al. Body mass index, 49(1):1‑7. DOI: 10.1016/j.jhsa.2023.07.006.
+height, and osteoporotic fracture risk in [41] Chen M, Zhang Y, Zhang L, et al. The effect of education
+community‑dwelling Japanese people aged 40‑74 years[J]. intervention on osteoporotic fracture and bone mineral
+J Bone Miner Metab, 2024, 42(1):47‑59. DOI: 10.1007/ density in elderly women with osteoporosis: a randomized
+s00774‑023‑01478‑z. controlled trial[J]. Altern Ther Health Med, 2022, 28(2):
+[27] Bouxsein ML, Eastell R, Lui LY, et al. Change in bone density 89‑95.
+and reduction in fracture risk: a meta‑regression of [42] Basilici Zannetti E, D′Agostino F, Cittadini N, et al. Effect of
+published trials[J]. J Bone Miner Res, 2019, 34(4):632‑642. tailored educational intervention to improve self‑care
+DOI: 10.1002/jbmr.3641. maintenance and quality of life in postmenopausal
+[28] Vergatti A, Abate V, D′Elia L, et al. Smoking habits and osteoporotic women after a fragility fracture: the Guardian
+osteoporosis in community‑dwelling men subjected to Angel&reg; study[J]. Ig Sanita Pubbl, 2017, 73(1):65‑76.
+dual‑X‑ray absorptiometry: a cross‑sectional study[J]. J [43] Spångeus A, Willerton C, Enthoven P, et al. Patient education
+Endocrinol Invest, 2024, 47(12):3129‑3135. DOI: 10.1007/ improves pain and health‑related quality of life in patients
+s40618‑024‑02402‑6. with established spinal osteoporosis in primary care‑a pilot
+[29] Seabra O, Pereira VG, Espindula AP, et al. Even without study of short‑and long‑term effects[J]. Int J Environ Res
+changing the bone mineral density, alcohol consumption Public Health, 2023, 20(6). DOI: 10.3390/ijerph20064933.
+decreases the percentage of collagen, the thickness of bone [44] Rubæk M, Hitz MF, Holmberg T, et al. Effectiveness of patient
+trabeculae, and increases bone fragility[J]. An Acad Bras education for patients with osteoporosis: a systematic review
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+810 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+[J]. Osteoporos Int, 2022, 33(5):959‑977. DOI: 10.1007/ [58] Singh A, Varma AR. Whole‑body vibration therapy as a
+s00198‑021‑06226‑5. modality for treatment of senile and postmenopausal
+[45] Abdolalipour S, Mirghafourvand M. Effect of education on osteoporosis: a review article[J]. Cureus, 2023, 15(1):
+preventive behaviors of osteoporosis in adolescents: a e33690. DOI: 10.7759/cureus.33690.
+systematic review and meta‑analysis[J]. Int Q Community [59] Espejo‑Antúnez L, Pérez‑Mármol JM, MLÁ C, et al. The effect
+Health Educ, 2021, 41(3): 325‑347. DOI: 10.1177/ of proprioceptive exercises on balance and physical function
+0272684X20936833. in institutionalized older adults: a randomized controlled
+[46] Min C, Yoo DM, Kwon MJ, et al. Physical activity, sunshine trial[J]. Arch Phys Med Rehabil, 2020, 101(10):1780‑1788.
+duration, and osteoporotic fractures: a nested case‑control DOI: 10.1016/j.apmr.2020.06.010.
+study[J]. J Pers Med, 2022, 12(2). DOI: 10.3390/ [60] Colón‑Emeric CS, McDermott CL, Lee DS, et al. Risk
+jpm12020164. assessment and prevention of falls in older
+[47] U.S. Department of Agriculture and U.S. Department of community‑dwelling adults: a review[J]. JAMA, 2024,
+Health and Human Services. Dietary Guidelines for 331(16):1397‑1406. DOI: 10.1001/jama.2024.1416.
+Americans 2020‑2025[EB/OL]. 9th ed. (2020‑10‑10). https: [61] Laird C, Williams KA, Benson H. Management of
+//www.dietaryguidelines.gov/sites/default/files/2020‑12/ fall‑risk‑increasing drugs in Australian aged care residents:
+Dietary_Guidelines_for_Americans_2020‑2025.pdf. a retrospective cross‑sectional study[J]. BMC Geriatr, 2025,
+[48] Zou H, Liu J, Jiang D, et al. The effect of health literacy on 25(1):205. DOI: 10.1186/s12877‑025‑05851‑7.
+disease management self‑efficacy in chronic disease [62] Mziray M, Nowosad K, Śliwińska A, et al. Malnutrition and fall
+patients: the mediating effects of social support and the risk in older adults: a comprehensive assessment across
+moderating effects of illness perception[J]. Patient Prefer different living situations[J]. Nutrients, 2024, 16(21). DOI:
+Adherence, 2024, 18:657‑666. DOI: 10.2147/PPA.S447320. 10.3390/nu16213694.
+[49] Berman NK, Honig S, Cronstein BN, et al. The effects of [63] Lage I, Braga F, Almendra M, et al. Older people living alone:
+caffeine on bone mineral density and fracture risk[J]. a predictive model of fall risk[J]. Int J Environ Res Public
+Osteoporos Int, 2022, 33(6):1235‑1241. DOI: 10.1007/ Health, 2023, 20(13). DOI: 10.3390/ijerph20136284.
+s00198‑021‑05972‑w. [64] Kimura S, Suzuki C, Kitamura K, et al. Smoking, alcohol
+[50] Chen L, Liu R, Zhao Y, et al. High consumption of soft drinks consumption, and risk of recurrent falls in
+is associated with an increased risk of fracture: a 7‑year community‑dwelling Japanese people aged 40‑74 years: the
+follow‑up study[J]. Nutrients, 2020, 12(2). DOI: 10.3390/ Murakami cohort study[J]. Geriatr Gerontol Int, 2025, 25(1):
+nu12020530. 67‑74. DOI: 10.1111/ggi.15040.
+[51] Acevedo C, Stadelmann VA, Pioletti DP, et al. Fatigue as the [65] Killeen OJ, De Lott LB, Zhou Y, et al. Population prevalence of
+missing link between bone fragility and fracture[J]. Nat vision impairment in US adults 71 years and older: the
+Biomed Eng, 2018, 2(2): 62‑71. DOI: 10.1038/ National Health and Aging Trends Study[J]. JAMA
+s41551‑017‑0183‑9. Ophthalmol, 2023, 141(2): 197‑204. DOI: 10.1001/
+[52] Rizzoli R, Biver E, Bonjour JP, et al. Benefits and safety of jamaophthalmol.2022.5840.
+dietary protein for bone health‑an expert consensus paper [66] Thomas J, Almidani L, Ramulu P, et al. Falls and multiple falls
+endorsed by the European Society for Clinical and among united states older adults with vision impairment[J].
+Economical Aspects of Osteopororosis, Osteoarthritis, and Am J Ophthalmol, 2025, 271:166‑174. DOI: 10.1016/j.
+Musculoskeletal Diseases and by the International ajo.2024.11.012.
+Osteoporosis Foundation[J]. Osteoporos Int, 2018, 29(9): [67] Mejía ST, Su TT, Hsieh KL, et al. The dynamic interplay of
+1933‑1948. DOI: 10.1007/s00198‑018‑4534‑5. objective and subjective balance and subsequent task
+[53] 中国营养学会骨营养与健康分会, 中华医学会骨质疏松和骨 performance: implications for fall risk in older adults[J].
+矿盐疾病分会. 原发性骨质疏松症患者的营养和运动管理专 Gerontology, 2023, 69(5): 581‑592. DOI: 10.1159/
+家共识[J]. 中华骨质疏松和骨矿盐疾病杂志, 2020, 13(5): 000528649.
+396‑410. DOI: 10.3969/j.issn.1674‑2591.2020.05.002. [68] Rodrigues F, Domingos C, Monteiro D, et al. A review on
+[54] Dent E, Daly RM, Hoogendijk EO, et al. Exercise to prevent and aging, sarcopenia, falls, and resistance training in
+manage frailty and fragility fractures[J]. Curr Osteoporos Rep, community‑dwelling older adults[J]. Int J Environ Res Public
+2023, 21(2):205‑215. DOI: 10.1007/s11914‑023‑00777‑8. Health, 2022, 19(2). DOI: 10.3390/ijerph19020874.
+[55] Abu Khurmah MH, Alkhatatbeh MJ, Alshogran OY. [69] Capiau A, Huys L, van Poelgeest E, et al. Therapeutic
+Assessment of osteoporosis knowledge, awareness, and risk dilemmas with benzodiazepines and Z‑drugs: insomnia and
+factors among premenopausal and postmenopausal women anxiety disorders versus increased fall risk: a clinical review
+from Jordan: a cross‑sectional study[J]. Arch Osteoporos, [J]. Eur Geriatr Med, 2023, 14(4):697‑708. DOI: 10.1007/
+2023, 18(1):121. DOI: 10.1007/s11657‑023‑01332‑9. s41999‑022‑00731‑4.
+[56] Izquierdo M, de Souto Barreto P, Arai H, et al. Global [70] Beauchet O, Sekhon H, Schott AM, et al. Motoric cognitive risk
+consensus on optimal exercise recommendations for syndrome and risk for falls, their recurrence, and postfall
+enhancing healthy longevity in older adults (ICFSR)[J]. J Nutr fractures: results from a prospective observational
+Health Aging, 2025, 29(1): 100401. DOI: 10.1016/j. population‑based cohort study[J]. J Am Med Dir Assoc, 2019,
+jnha.2024.100401. 20(10):1268‑1273. DOI: 10.1016/j.jamda.2019.04.021.
+[57] Benedetti MG, Furlini G, Zati A, et al. The effectiveness of [71] Racey M, Markle‑Reid M, Fitzpatrick‑Lewis D, et al. Fall
+physical exercise on bone density in osteoporotic patients[J]. prevention in community‑dwelling adults with mild to
+Biomed Res Int, 2018, 2018:4840531. DOI: 10.1155/2018/ moderate cognitive impairment: a systematic review and
+4840531. meta‑analysis[J]. BMC Geriatr, 2021, 21(1): 689. DOI:
+fmx_T3RoZXJNaXJyb3Jz
+中华医学杂志 年 月 日第 卷第 期 · ·
+2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9 811
+10.1186/s12877‑021‑02641‑9. [86] Chevalley T, Brandi ML, Cashman KD, et al. Role of vitamin
+[72] Kuan YC, Huang LK, Wang YH, et al. Balance and gait D supplementation in the management of musculoskeletal
+performance in older adults with early‑stage cognitive diseases: update from an European Society of Clinical and
+impairment[J]. Eur J Phys Rehabil Med, 2021, 57(4): Economical Aspects of Osteoporosis, Osteoarthritis and
+560‑567. DOI: 10.23736/S1973‑9087.20.065508. Musculoskeletal Diseases (ESCEO) working group[J]. Aging
+‑
+[73] Laurent G, Vereeck L, Verbecque E, et al. Effect of age on Clin Exp Res, 2022, 34(11):2603‑2623. DOI: 10.1007/
+treatment outcomes in benign paroxysmal positional s40520‑022‑02279‑6.
+vertigo: a systematic review[J]. J Am Geriatr Soc, 2022, 70(1): [87] Lee D, Tak SH. A concept analysis of fear of falling in older adults:
+281‑293. DOI: 10.1111/jgs.17485. insights from qualitative research studies[J]. BMC Geriatr, 2023,
+[74] Li Y, Smith RM, Whitney SL, et al. Association between 23(1):651. DOI: 10.1186/s12877‑023‑04364‑5.
+dizziness and future falls and fall‑related injuries in older [88] Ickert EC, Hughes T, Berg‑Carramusa CA, et al.
+adults: a systematic review and meta‑analysis[J]. Age Ageing, Overestimation of balance ability among older adults at risk
+2024, 53(9). DOI: 10.1093/ageing/afae177. for falls[J]. J Aging Health, 2024, 36(5‑6):286‑298. DOI:
+[75] Lee H, Lim JH. Living alone, environmental hazards, and falls 10.1177/08982643231186630.
+among U.S. older adults[J]. Innov Aging, 2023, 7(6): igad055. [89] Harper A, Wilkinson I. Falls in older adults: causes,
+DOI: 10.1093/geroni/igad055. assessment and management[J]. Medicine, 2024, 52(11):
+[76] Thies SB, Bates A, Costamagna E, et al. Are older people 677‑682. DOI: 10.1016/j.mpmed.2024.08.010
+putting themselves at risk when using their walking frames? [90] Campani D, Caristia S, Amariglio A, et al. Home and
+[J]. BMC Geriatr, 2020, 20(1): 90. DOI: 10.1186/ environmental hazards modification for fall prevention
+s12877‑020‑1450‑2. among the elderly[J]. Public Health Nurs, 2021, 38(3):
+[77] Kim IJ, Hegazy F. Enhancing footwear safety for fall 493‑501. DOI: 10.1111/phn.12852.
+prevention in older adults: a comprehensive review of design [91] Wáng Y, Griffith JF, Blake GM, et al. Revision of the 1994
+features[J]. Ann Geriatr Med Res, 2024, 28(2):121‑133. DOI: World Health Organization T‑score definition of
+10.4235/agmr.23.0167. osteoporosis for use in older East Asian women and men to
+[78] Montero‑Odasso M, van der Velde N, Martin FC, et al. World reconcile it with their lifetime risk of fragility fracture[J].
+guidelines for falls prevention and management for older Skeletal Radiol, 2024, 53(4): 609‑625. DOI: 10.1007/
+adults: a global initiative[J]. Age Ageing, 2022, 51(9). DOI: s00256‑023‑04481‑7.
+10.1093/ageing/afac205. [92] 《中国定量CT(QCT)骨质疏松症诊断指南》工作组, 程晓光,
+[79] World Health Organization. Global recommendations on 王亮, 等. 中国定量CT(QCT)骨质疏松症诊断指南(2018)[J].
+physical activity for health[EB/OL]. https://iris.who.int/ 中国骨质疏松杂志, 2019, 25(6):733‑737. DOI: 10.3969/j.
+bitstream/handle/10665/44399/9789241599979_eng.pdf? issn.1006‑7108.2019.06.001.
+sequence=1. [93] Zou D, He X, Shang Z, et al. Osteoporosis screening using
+[80] Bruce J, Hossain A, Lall R, et al. Fall prevention interventions QCT‑based cutoff value of Hounsfield units in patients with
+in primary care to reduce fractures and falls in people aged degenerative lumbar diseases[J]. Eur Spine J, 2024, 33(12):
+70 years and over: the PreFIT three‑arm cluster RCT[J]. 4499‑4503. DOI: 10.1007/s00586‑024‑08491‑4.
+Health Technol Assess, 2021, 25(34):1‑114. DOI: 10.3310/ [94] Genant HK, Wu CY, van Kuijk C, et al. Vertebral fracture
+hta25340. assessment using a semiquantitative technique[J]. J Bone
+[81] Schneider A, Leite LB, Teixeira J, et al. Multicomponent Miner Res, 1993, 8(9): 1137‑1148. DOI: 10.1002/
+exercise and functional fitness: strategies for fall prevention jbmr.5650080915.
+in aging women[J]. Sports (Basel), 2025, 13(6). DOI: [95] LeBoff MS, Greenspan SL, Insogna KL, et al. The clinician′s
+10.3390/sports13060159. guide to prevention and treatment of osteoporosis[J].
+[82] van der Velde N, Seppala LJ, Hartikainen S, et al. European Osteoporos Int, 2022, 33(10):2049‑2102. DOI: 10.1007/
+position paper on polypharmacy and fall‑risk‑increasing s00198‑021‑05900‑y.
+drugs recommendations in the World Guidelines for Falls [96] 中华人民共和国国家卫生健康委员会. 中华人民共和国卫生
+Prevention and Management: implications and 行业标准WS/T 578.12017, WS/T 578.2 2017, WS/T
+‑ -
+implementation[J]. Eur Geriatr Med, 2023, 14(4):649‑658. 578.4 2017. 中国居民膳食营养素参考摄入量, 2018[S/OL].
+-
+DOI: 10.1007/s41999‑023‑00824‑8. (2018‑04‑27). http://www. nhc. gov. cn/wjw/yingyang/
+[83] Axmon A, Sandberg M, Ahlström G, et al. Fall‑risk‑increasing 201805/a61e775d223443ea822a2fb7d69476ed.shtml.
+drugs and falls requiring health care among older people [97] Al Omari MM, Rashid IS, Qinna NA, et al. Calcium carbonate
+with intellectual disability in comparison with the general [J]. Profiles Drug Subst Excip Relat Methodol, 2016, 41:
+population: a register study[J]. PLoS One, 2018, 13(6): 31‑132. DOI: 10.1016/bs.podrm.2015.11.003.
+e0199218. DOI: 10.1371/journal.pone.0199218. [98] 《中国老年骨质疏松症诊疗指南2023》工作组, 中国老年学和
+[84] Keay L, Ho KC, Rogers K, et al. The incidence of falls after first 老年医学学会骨质疏松分会, 中国医疗保健国际交流促进会
+and second eye cataract surgery: a longitudinal cohort study 骨质疏松病学分会, 等. 中国老年骨质疏松症诊疗指南(2023)
+[J]. Med J Aust, 2022, 217(2): 94‑99. DOI: 10.5694/ [J]. 中华骨与关节外科杂志, 2023, 16(10):865‑885. DOI:
+mja2.51611. 10.3969/j.issn.2095‑9958.2023.10.01.
+[85] Gutiérrez‑Robledo LM, Villasís‑Keever MA, Avila‑Avila A, [99] Cosman F, Lewiecki EM, Eastell R, et al. Goal‑directed
+et al. Effect of cataract surgery on frequency of falls among osteoporosis treatment: ASBMR/BHOF task force position
+older persons: a systematic review and meta‑analysis[J]. J statement 2024[J]. J Bone Miner Res, 2024, 39(10):
+Ophthalmol, 2021, 2021:2169571. DOI: 10.1155/2021/ 1393‑1405. DOI: 10.1093/jbmr/zjae119.
+2169571. [100] Compston J. Practical guidance for the use of
+fmx_T3RoZXJNaXJyb3Jz
+· · 中华医学杂志 年 月 日第 卷第 期
+812 2026 3 10 106 9 Natl Med J China, March 10, 2026, Vol. 106, No. 9
+bisphosphonates in osteoporosis[J]. Bone, 2020, 136: [110] Huang S, Li J, Hu X, et al. A health technology assessment
+115330. DOI: 10.1016/j.bone.2020.115330. based on Chinese guideline: active vitamin D and its analogs
+[101] Kumar S, Wang M, Kim AS, et al. Denosumab discontinuation in the treatment of osteoporosis[J]. Drug Des Devel Ther,
+in the clinic: implications of rebound bone turnover and 2024, 18:2593‑2608. DOI: 10.2147/DDDT.S465960.
+emerging strategies to prevent bone loss and fractures[J]. J [111] Skalny AV, Aschner M, Tsatsakis A, et al. Role of vitamins
+Bone Miner Res, 2025, 40(9): 1017‑1034. DOI: 10.1093/ beyond vitamin D3 in bone health and osteoporosis (Review)
+jbmr/zjaf037. [J]. Int J Mol Med, 2024, 53(1). DOI: 10.3892/
+[102] Watts NB, Camacho PM, Lewiecki EM, et al. American ijmm.2023.5333.
+Association of Clinical Endocrinologists/American College [112] Su S, He N, Men P, et al. The efficacy and safety of
+of Endocrinology clinical practice guidelines for the menatetrenone in the management of osteoporosis: a
+diagnosis and treatment of postmenopausal systematic review and meta‑analysis of randomized
+osteoporosis‑2020 update[J]. Endocr Pract, 2021, 27(4): controlled trials[J]. Osteoporos Int, 2019, 30(6): 1175‑1186.
+37wa9‑380. DOI: 10.1016/j.eprac.2021.02.001. DOI: 10.1007/s00198‑019‑04853‑7.
+[103] Boucher E, Rosgen B, Lang E. Efficacy of calcitonin for [113] Chen J, Zheng J, Chen M, et al. The efficacy and safety of
+treating acute pain associated with osteoporotic vertebral Chinese Herbal Medicine Xianling Gubao Capsule combined
+compression fracture: an updated systematic review[J]. with alendronate in the treatment of primary osteoporosis:
+CJEM, 2020, 22(3):359‑367. DOI: 10.1017/cem.2019.490. a systematic review and meta‑analysis of 20 randomized
+[104] 孟斌, 程黎明, 海涌, 等. 骨科急性骨丢失防治专家共识[J]. controlled trials[J]. Front Pharmacol, 2021, 12:695832. DOI:
+中华骨与关节外科杂志, 2021, 14(7):577‑583. DOI: 10.3969/ 10.3389/fphar.2021.695832.
+j.issn.2095‑9958.2021.07.01. [114] Liang H, Wang O, Cheng Z, et al. Jintiange combined with
+[105] Amin U, McPartland A, O′Sullivan M, et al. An overview of the alfacalcidol improves muscle strength and balance in
+management of osteoporosis in the aging female population primary osteoporosis: a randomized, double‑blind,
+[J]. Womens Health (Lond), 2023, 19:17455057231176655. double‑dummy, positive‑controlled, multicenter clinical trial
+DOI: 10.1177/17455057231176655. [J]. J Orthop Translat, 2022, 35:53‑61. DOI: 10.1016/j.
+[106] 中国康复技术转化与发展促进会骨质疏松性骨折加速康复 jot.2022.05.002.
+专业委员会, 中华医学会骨质疏松和骨矿盐疾病委员会骨与 [115] Liu T, Yao M, Zhao Y, et al. Chinese medicine Gushukang
+关节学组, 中国医师协会骨科医师分会骨质疏松工作委员会. capsule for treating primary osteoporosis: a systematic
+特立帕肽治疗骨质疏松性骨折中国专家共识(2024版)[J]. review and meta‑analysis[J]. J Orthop Surg Res, 2023, 18(1):
+中华医学杂志, 2024, 104(17):1456‑1465. DOI: 10.3760/cma. 845. DOI: 10.1186/s13018‑023‑04264‑9.
+j.cn112137‑20231101‑00964. [116] Siu A, Allore H, Brown D, et al. National Institutes of Health
+[107] Tabatabai L, Cosman F, Curtis JR, et al. Comparative Pathways to Prevention Workshop: research gaps for
+effectiveness of abaloparatide and teriparatide in women long‑term drug therapies for osteoporotic fracture
+50 years of age and older: update of a real‑world prevention[J]. Ann Intern Med, 2019, 171(1):51‑57. DOI:
+retrospective analysis[J]. Endocr Pract, 2025, 31(2):159‑168. 10.7326/M19‑0961.
+DOI: 10.1016/j.eprac.2024.10.017. [117] Sanders E, Dobransky J, Cheaitani L, et al. Preventing hip
+[108] Miyauchi A, Hamaya E, Shimauchi J, et al. Effectiveness of fractures with multidisciplinary teams: a Canadian
+romosozumab in patients with osteoporosis at high fracture perspective[J]. Can J Surg, 2021, 64(3):E310‑E316. DOI:
+risk: a Japanese real‑world study[J]. J Bone Miner Metab, 10.1503/cjs.014219.
+2024, 42(1):77‑89. DOI: 10.1007/s00774‑023‑01477‑0. [118] Gill CE, Mitchell PJ, Clark J, et al. Experience of a systematic
+[109] Giustina A, Bilezikian JP, Adler RA, et al. Consensus statement approach to care and prevention of fragility fractures in New
+on vitamin D status assessment and supplementation: whys, Zealand[J]. Arch Osteoporos, 2022, 17(1):108. DOI: 10.1007/
+whens, and hows[J]. Endocr Rev, 2024, 45(5):625‑654. DOI: s11657‑022‑01138‑1.
+10.1210/endrev/bnae009.
+fmx_T3RoZXJNaXJyb3Jz
